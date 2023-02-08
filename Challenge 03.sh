@@ -10,3 +10,5 @@ last | awk '{print $1, $3, $4, $5, $6, $7, $8, $9}'
 
 Refrence
  + <https://chat.openai.com/chat>
+ 
+ + <https://ryanstutorials.net/bash-scripting-tutorial/bash-functions.php>
