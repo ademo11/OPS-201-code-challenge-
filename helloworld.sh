@@ -4,9 +4,10 @@
 # Author: Ademola
 # Date of latest revision: 7 Feb 2023
 # Purpose: Is to create a sript that will print I am working perfectly to the screen
+ + print("I am working perfect")
+ + #!usr/bin/env pyton
 
-
-#Main
+#main
 
 
 pwd
