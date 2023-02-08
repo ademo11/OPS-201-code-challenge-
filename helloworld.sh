@@ -1,3 +1,4 @@
+#main
 #!/bin/bash
 
 # Script: OPS 201 Class 02 Ops Challenge Solution
@@ -6,9 +7,6 @@
 # Purpose: Is to create a sript that will print I am working perfectly to the screen
  + print("I am working perfect")
  + #!usr/bin/env pyton
-
-#main
-
 
 pwd
 whoami
