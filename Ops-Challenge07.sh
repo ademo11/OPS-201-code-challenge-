@@ -15,3 +15,5 @@ sudo lshw | grep -A 10 "*-display"
 echo "=== Network Adapter Information ==="
 sudo lshw | grep -A 15 "*-network"
 
+# end
+done
