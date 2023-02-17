@@ -1,10 +1,6 @@
-@echo off
-set source=C:\Users\Jorge\Desktop
-set destination=D:\Jorge's Work Files
+#!/bin/bash
 
-echo Copying Jorge's work files...
+robocopy "C:\Users\j.thompson" "\Desktop\My Project Files"
 
-robocopy "%source%" "%destination%" /e
-
-echo Done.
-pause
+# end 
+# done
