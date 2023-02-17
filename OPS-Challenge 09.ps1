@@ -1,3 +1,5 @@
+# #!/bin/bash
+
 # Output all events from the System event log that occurred in the last 24 hours to a file on your desktop named last_24.txt.
  $date = Get-Date
  Get-EventLog System -After $date.AddDays(-1) >last_24.txt
