@@ -1,4 +1,4 @@
 # this is some code!
 
 
-#made change
+echo `cat students.txt | awk '{print $2}'`
