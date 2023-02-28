@@ -1,4 +1,4 @@
-#!/bin/bash
+
 
 # Script: OPS 201 Class 02 Ops Challenge Solution
 # Author: Ademola
